@@ -2,7 +2,7 @@
 layout: post
 title:  "Qwen3 知识库向量化成功！"
 date:   2025-07-20
-categories: AI相关思考
+categories: [AI相关思考]
 tags: [AI, RAG, 知识库向量化, Qwen 3, python]
 ---
 
